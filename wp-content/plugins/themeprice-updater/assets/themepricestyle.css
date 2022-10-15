@@ -1,0 +1,477 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+.form-table td {
+    padding: 10px;
+}
+.form-table th {
+    vertical-align: middle;
+    padding: 10px 10px 10px 0px;
+}
+.themepricelogin {
+    font-size: 15px;
+    color: #333333;
+}
+table.form-table {
+    margin-top: 20px;
+}
+.themeprice-class input[type=email],.themeprice-class input[type=password],.themeprice-class input[type=search],.themeprice-class input[type=text]{
+    line-height: 2;
+    min-height: 30px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    width: 260px;
+    height: 38px;
+    padding: 5px 15px;
+    border-radius: 50px;
+    outline: none;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    background: #ffffff24;
+    color: #fff;
+    font-size: 15px;
+}
+.themeprice-class label, .themepricemystatus label {
+    font-size: 15px;
+    color: #333333;
+    text-transform: uppercase;
+}
+a.status_active:active, a.status_active:focus, a.status_active:visited {
+    color: #ffffff;
+}
+table.updatethemeprice {
+    margin-top:20px;
+    text-align: left;
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 2px solid #f15151;
+    border-radius: 0.25rem;
+    width: 50%;
+}
+table.updatethemeprice td, table.updatethemeprice th {
+    border-left: 1px solid #ddd;
+    padding: 8px;
+}
+table.updatethemeprice tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+table.updatethemeprice tr:hover {
+    background-color: #ddd;
+}
+table.updatethemeprice th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+    background-color: #f15151;
+    color: #ecf0f1;
+    text-transform: uppercase;
+    border: none;
+}
+.cardthemeprice {
+    background: #ffffff;
+    transition: 0.3s;
+    border-left-color: #6340c1 !important;
+    border: 1px solid #ccd0d4;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin: 5px 15px 2px;
+    padding: 10px 12px 10px 20px;
+}
+.cardthemeprice h2, .themepricecard1 h1 {
+    text-transform: uppercase;
+    color: #333333;
+}
+.status_deactive {
+    background-color: transparent;
+    border-radius: 20px;
+    border: 1px solid #FFFFFF;
+    color: white;
+    padding: 10px 30px;
+    pointer-events: none;
+}
+.status_active {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 12px 30px;
+    text-align: center;
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 14px;
+    border-width: 0;
+    outline: none;
+    border-radius: 20px;
+    background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+    background: linear-gradient(to right, #FF4B2B, #FF416C);
+    color: #fff;
+    transition: background-color .3s;
+    cursor: pointer;
+}
+.themepricecard1 {
+    background: #ffffff;
+    transition: 0.3s;
+    border-left-color: #46b450 !important;
+    border: 1px solid #ccd0d4;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin: 5px 15px 2px;
+    padding: 10px 12px 10px 20px;
+}
+.tab-pane h2 {
+    text-transform: uppercase;
+}
+.tab-pane {
+    display: block;
+    background-color: #fff;
+    transition: 0.3s;
+    border-left-color: #c1408d !important;
+    border: 1px solid #ccd0d4;
+    border-left-width: 4px;
+    box-shadow: 0 1px 1px rgba(0,0,0,.04);
+    margin: 5px 15px 2px;
+    padding: 10px 12px 10px 20px;
+}
+.themepricemyplugactive {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 8px 20px;
+    text-align: center;
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 14px;
+    border-width: 0;
+    outline: none;
+    border-radius: 20px;
+    background: #2bd27e;
+    color: #fff;
+    transition: background-color .3s;
+}
+.themepricemyplugnotactive {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 8px 20px;
+    text-align: center;
+    font-family: inherit;
+    font-weight: normal;
+    font-size: 14px;
+    border-width: 0;
+    outline: none;
+    border-radius: 20px;
+    background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+    background: linear-gradient(to right, #FF4B2B, #FF416C);
+    color: #fff;
+    transition: background-color .3s;
+}
+.wrapthemeprice h1, .wrapthemeprice h2 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+/* Admin Page CSS */
+.bodylike * {
+    box-sizing: border-box;
+}
+.bodylike {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    height: 100vh;
+}
+.bodylike h1 {
+    font-weight: bold;
+    margin: 0;
+}
+.bodylike h2 {
+    text-align: center;
+}
+.bodylike p {
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    margin: 20px 0 30px;
+}
+.bodylike span {
+    font-size: 12px;
+}
+.bodylike a {
+    color: #333;
+    font-size: 14px;
+    text-decoration: none;
+    margin: 15px 0;
+}
+.bodylike button {
+    border-radius: 20px;
+    border: 1px solid #2060ff;
+    background-color: #2060ff;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 12px 45px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+.bodylike button:active {
+    transform: scale(0.95);
+}
+.bodylike button:focus {
+    outline: none;
+}
+.bodylike button.ghost {
+    background-color: transparent;
+    border-color: #FFFFFF;
+}
+.bodylike .submit input {
+    border-radius: 25px;
+    border: 1px solid #2060ff;
+    background-color: #2060ff;
+    color: #FFFFFF;
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 60px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+.bodylike p.submit {
+    margin: 10px 0 10px !important;
+}
+.bodylike .submit input:active {
+    transform: scale(0.95);
+}
+.bodylike .submit input:focus {
+    outline: none;
+}
+.bodylike .submit input.ghost {
+    background-color: transparent;
+    border-color: #FFFFFF;
+}
+.signupbutton {
+    border-radius: 25px;
+    border: 1px solid #2060ff;
+    background-color: #2060ff;
+    color: #FFF !important;
+    font-size: 12px !important;
+    font-weight: bold;
+    padding: 8px 60px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    transition: transform 80ms ease-in;
+}
+.signupbutton:focus {
+    outline: none;
+    background-color: #0071a1;
+}
+.signupbutton:active {
+    transform: scale(0.95);
+}
+.bodylike form {
+    background: url("background-pic.jpg") no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 50px;
+    height: 100%;
+    text-align: center;
+    background-size: cover;
+}
+.bodylike input {
+    background-color: #eee;
+    border: none;
+    padding: 12px 15px;
+    margin: 8px 0;
+    width: 100%;
+}
+.overlay-deactive {
+
+}
+.bodylike .container {
+    background-color: #fff;
+    box-shadow: 0px 28px 72px -8px #000000ad;
+    position: relative;
+    overflow: hidden;
+    width: 500px;
+    max-width: 100%;
+    min-height: 660px;
+}
+.bodylike .form-container {
+    position: absolute;
+    top: 0;
+    height: 100%;
+    transition: all 0.6s ease-in-out;
+}
+.bodylike .sign-in-container {
+    left: 0;
+    width: 100%;
+    z-index: 2;
+}
+
+.bodylike .container.right-panel-active .sign-in-container {
+    transform: translateX(100%);
+}
+.bodylike .sign-up-container {
+    left: 0;
+    width: 50%;
+    opacity: 0;
+    z-index: 1;
+}
+.bodylike .container.right-panel-active .sign-up-container {
+    transform: translateX(100%);
+    opacity: 1;
+    z-index: 5;
+    animation: show 0.6s;
+}
+.bodylike @keyframes show {
+    0%, 49.99% {
+    opacity: 0;
+    z-index: 1;
+    }
+    50%, 100% {
+    opacity: 1;
+    z-index: 5;
+    }
+}
+.bodylike .container.right-panel-active .overlay-container{
+    transform: translateX(-100%);
+}
+
+.bodylike .container.right-panel-active .overlay {
+    transform: translateX(50%);
+}
+.bodylike .overlay-left {
+    transform: translateX(-20%);
+}
+.bodylike .container.right-panel-active .overlay-left {
+    transform: translateX(0);
+}
+.bodylike .overlay-right {
+    right: 0;
+    transform: translateX(0);
+}
+.bodylike .container.right-panel-active .overlay-right {
+    transform: translateX(20%);
+}
+.bodylike .social-container {
+    margin: 5px 0;
+}
+.bodylike .social-container a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+    height: 40px;
+    width: 40px;
+}
+.bodylike th {
+    display: none;
+}
+
+/* Deactivate Page CSS */
+
+.bodyliked * {
+    box-sizing: border-box;
+}
+.bodyliked {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Montserrat', sans-serif;
+    height: 100vh;
+}
+.bodyliked h1 {
+    font-weight: bold;
+    margin: 0;
+}
+.bodyliked p {
+    font-size: 14px;
+    font-weight: 100;
+    line-height: 20px;
+    letter-spacing: 0.5px;
+    margin: 20px 0 30px;
+}
+.bodyliked button:active {
+    transform: scale(0.95);
+}
+.bodyliked button:focus {
+    outline: none;
+}
+/*
+.status_deactive {
+    background-color: transparent;
+    border-radius: 20px;
+    border: 1px solid #FFFFFF;
+    color: white;
+    padding: 10px 30px;
+    pointer-events: none;
+}
+*/
+.bodyliked .container {
+    background-color: #fff;
+    box-shadow: 0px 28px 72px -8px #000000ad;
+    position: relative;
+    overflow: hidden;
+    width: 450px;
+    max-width: 100%;
+    min-height: 660px;
+}
+.bodyliked .overlay-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    transition: transform 0.6s ease-in-out;
+    z-index: 100;
+}
+.bodyliked .overlay {
+    background: #FF416C;
+    background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);
+    background: linear-gradient(to right, #FF4B2B, #FF416C);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+    color: #FFFFFF;
+    position: relative;
+    height: 100%;
+    width: 100%;
+    transform: translateX(0);
+    transition: transform 0.6s ease-in-out;
+}
+.bodyliked .container.right-panel-active .overlay {
+    transform: translateX(50%);
+}
+.bodyliked .overlay-panel {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 0 40px;
+    text-align: center;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    transform: translateX(0);
+    transition: transform 0.6s ease-in-out;
+}
+.bodyliked .overlay-deactivee {
+    background: url("background-pic-active.jpg");
+    height: 100%;
+    background-size: cover;
+}
+.bodyliked .overlay-activee {
+    background: url("background-pic-deactive.jpg");
+    height: 100%;
+    background-size: cover;
+}
+.bodyliked .overlay-right {
+    right: 0;
+    transform: translateX(0);
+}
+.bodyliked .container.right-panel-active .overlay-right {
+    transform: translateX(20%);
+}

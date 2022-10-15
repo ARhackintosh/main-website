@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /fzr
-Disallow: /wp-admin/
-Allow: /kextarchive/
+Allow: /
 
 Sitemap: https://xn--mgbg4a8cpdl.com/sitemap.xml
