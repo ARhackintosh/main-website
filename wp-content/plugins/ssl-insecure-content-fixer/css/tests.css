@@ -1,12 +1,1 @@
-.sslfix-test-result,
-#sslfix-test-result-head {
-	display: none;
-}
-
-#sslfix-https-detection.dashicons-yes {
-	color: green;
-}
-
-#sslfix-https-detection.dashicons-no {
-	color: red;
-}
+.sslfix-test-result, #sslfix-test-result-head { display: none; } #sslfix-https-detection.dashicons-yes { color: green; } #sslfix-https-detection.dashicons-no { color: red; }

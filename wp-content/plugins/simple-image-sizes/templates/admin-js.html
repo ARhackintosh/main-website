@@ -1,5 +1,4 @@
-<script type="text/html" id="sis-new_size">
-    <tr valign="top" class="new_size_{{ data.size_id }} new_size">
+<script type="text/html"id="sis-new_size"><tr valign="top" class="new_size_{{ data.size_id }} new_size">
         <th scope="row">
             <input type="text" id="new_size_{{ data.size_id }}" value="thumbnail-name">
         </th>
@@ -7,10 +6,7 @@
             <input type="button" id="validate_{{ data.size_id }}" value="{{ data.validate }}"
                    class="button-secondary action add_size_name">
         </td>
-    </tr>
-</script>
-<script type="text/html" id="sis-new_size_row">
-    <th scope="row">{{ data.size }}{{ data.size_name }}</th>
+    </tr></script><script type="text/html"id="sis-new_size_row"><th scope="row">{{ data.size }}{{ data.size_name }}</th>
     <td>
         <input type="hidden" name="image_name" value="{{ data.size_name }}">
         <input type="hidden" name="custom_image_sizes[{{ data.size_name }}][custom]" value="1">
@@ -49,5 +45,4 @@
 		</span>
         <div class="delete_size button-secondary">{{ data.deleteImage }}</div>
         <div class="add_size button-primary">{{ data.validateButton }}</div>
-    </td>
-</script>
+    </td></script>
