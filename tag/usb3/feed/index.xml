@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>USB3 Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/tag/usb3/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastBuildDate>Wed, 22 Apr 2020 18:07:09 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>USB3 Archives | هاكنتوش بالعربي</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>GenericUSBXHCI.kext</title>
+		<link>/genericusbxhci-kext/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2020 18:07:02 +0000</pubDate>
+				<category><![CDATA[USB]]></category>
+		<category><![CDATA[كيكست(kext)]]></category>
+		<category><![CDATA[GenericUSBXHCI.kext]]></category>
+		<category><![CDATA[hackintosh]]></category>
+		<category><![CDATA[kext]]></category>
+		<category><![CDATA[USB3]]></category>
+		<category><![CDATA[ارشيف الكيكست]]></category>
+		<category><![CDATA[تثبيت هاكنتوش]]></category>
+		<category><![CDATA[كيكست]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=447</guid>
+
+					<description><![CDATA[<p>تعريف مخصص لمداخل USB3 في الهاكنتوش قد يساعد في حل مشكله التوقف عند علامه المنع</p>
+<p>The post <a rel="nofollow" href="/genericusbxhci-kext/">GenericUSBXHCI.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-large-font-size">تعريف مخصص لمداخل USB3 في الهاكنتوش قد يساعد في حل مشكله التوقف عند علامه المنع</p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-midnight-gradient-background" href="https://bitbucket.org/RehabMan/os-x-generic-usb3/downloads/" target="_blank" rel="noreferrer noopener">تحميل</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-luminous-vivid-orange-to-vivid-red-gradient-background" href="https://github.com/RehabMan/OS-X-Generic-USB3" target="_blank" rel="noreferrer noopener">المصدر</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-light-green-cyan-to-vivid-green-cyan-gradient-background" href=" https://هاكنتوش.com/kextarchive/">العوده الى الارشيف</a></div>
+</div>
+</div></div>
+<p>The post <a rel="nofollow" href="/genericusbxhci-kext/">GenericUSBXHCI.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

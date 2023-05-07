@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>تحديثات شهر نوفمبر Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/tag/%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%B4%D9%87%D8%B1-%D9%86%D9%88%D9%81%D9%85%D8%A8%D8%B1/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastBuildDate>Sun, 22 Nov 2020 15:31:32 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>تحديثات شهر نوفمبر Archives | هاكنتوش بالعربي</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>صدور تحديث V1.1-nov من مشروع OC-configs</title>
+		<link>/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-1-nov-%d9%85%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2020 15:31:29 +0000</pubDate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[arhackintosh]]></category>
+		<category><![CDATA[OC-configs]]></category>
+		<category><![CDATA[opencore]]></category>
+		<category><![CDATA[opencore 0.6.3]]></category>
+		<category><![CDATA[اوبن كور]]></category>
+		<category><![CDATA[تحديثات شهر نوفمبر]]></category>
+		<category><![CDATA[كونفقات اوبن كور]]></category>
+		<category><![CDATA[مشاريع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=4441</guid>
+
+					<description><![CDATA[<p>تم تحديث عينه الكونفقات OC-Configs الى V1.1-nov الان مع دعم اوبن كور0.6.3 وتحسينات عامه.</p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-1-nov-%d9%85%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/">صدور تحديث V1.1-nov من مشروع OC-configs</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image alignwide size-large"><img decoding="async" width="1434" height="898" src="/wp-content/uploads/2020/11/oc1.1-1.jpg" alt="" class="wp-image-4444" srcset="/wp-content/uploads/2020/11/oc1.1-1.jpg 1434w, /wp-content/uploads/2020/11/oc1.1-1-600x376.jpg 600w, /wp-content/uploads/2020/11/oc1.1-1-800x501.jpg 800w, /wp-content/uploads/2020/11/oc1.1-1-768x481.jpg 768w" sizes="(max-width: 1434px) 100vw, 1434px" /></figure>
+
+
+
+<p class="has-drop-cap has-medium-font-size">نعلن اليوم عن تحديث مشروع عينه كونفقات ألآوبن كور (<a href="https://github.com/ARhackintosh/OC-Configs">OC-Configs</a>) لإصدار V1.1-nov وهو تحديث نوفمبر للمشروع.</p>
+
+
+
+<p class="has-medium-font-size">للأسف حدثت بعض المشاكل, وتأخر التحديث بشكل كبير عن المتوقع, لكن في التحديثات القادمة إن شاء الله لن يحدث نفس التأخير.</p>
+
+
+
+<p class="has-medium-font-size">هذا أول تحديث للمشروع <a href="/%d8%a7%d8%b9%d9%84%d8%a7%d9%86-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%aa%d8%ac%d9%87%d9%8a%d8%b2-%d8%b9%d9%8a%d9%86%d8%a7%d8%aa-%d9%83%d9%88%d9%86%d9%81%d9%82-%d8%a7%d9%88%d8%a8%d9%86-%d9%83/" data-type="post" data-id="4307">بعد الإصدار الرسمي </a>واكبر تغيير في هذا ألإصدار نقوم بتحديث جميع الكونفقات للتوافق مع أصدار اوبن كور <a href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3">0.6.3</a> الجديد.</p>
+
+
+
+<p class="has-medium-font-size">وحذف جميع مدخلات الكيكستات السابقة و حذف مدخلات ال uefi-drivers الافتراضية.</p>
+
+
+
+<p class="has-medium-font-size">كما تم تعطيل خيار AppleCpuPmCfgLock او ApplexCpmPmCfgLock في بعض الكونفقات</p>
+
+
+
+<p class="has-large-font-size"><a href="https://github.com/ARhackintosh/OC-Configs/releases/tag/V1.1">رابط الاصدار على github</a></p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-1-nov-%d9%85%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/">صدور تحديث V1.1-nov من مشروع OC-configs</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

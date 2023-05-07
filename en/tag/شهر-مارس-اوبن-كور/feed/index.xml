@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>شهر مارس اوبن كور Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/en/tag/%D8%B4%D9%87%D8%B1-%D9%85%D8%A7%D8%B1%D8%B3-%D8%A7%D9%88%D8%A8%D9%86-%D9%83%D9%88%D8%B1/feed/" rel="self" type="application/rss+xml" />
+	<link href=""></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastbuilddate>Tue, 09 Mar 2021 20:32:15 +0000</lastbuilddate>
+	<language>en-US</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>شهر مارس اوبن كور Archives | هاكنتوش بالعربي</title>
+	<link href=""></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>صدور تحديث V2.6-Big Sur لشرح تثبيت الهاكنتوش</title>
+		<link href="">/en/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-6-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubdate>Tue, 09 Mar 2021 20:32:13 +0000</pubdate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[تثبيت الماك على الكمبيوتر]]></category>
+		<category><![CDATA[تثبيت ماك بيج سر]]></category>
+		<category><![CDATA[تثبيت هاكنتوش]]></category>
+		<category><![CDATA[تثبيت هاكنتوش بيج سر]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح تثبيت هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[شهر مارس اوبن كور]]></category>
+		<category><![CDATA[مارس]]></category>
+		<guid ispermalink="false">/?p=4641</guid>
+
+					<description><![CDATA[<p>نعلن رسميا اليوم عن تحديث v2.6-Big Sur لشرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي, الان مع دعم اوبن كور 0.6.7 و رفع اخر اصدار من ماك 11 Big Sur</p>
+<p>The post <a rel="nofollow" href="/en/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-6-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.6-Big Sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="/en">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/03/ARtutorialV2.6.jpg" alt="" class="wp-image-4642" width="799" height="449" srcset="/wp-content/uploads/2021/03/ARtutorialV2.6.jpg 1920w, /wp-content/uploads/2021/03/ARtutorialV2.6-800x450.jpg 800w, /wp-content/uploads/2021/03/ARtutorialV2.6-768x432.jpg 768w, /wp-content/uploads/2021/03/ARtutorialV2.6-1536x864.jpg 1536w, /wp-content/uploads/2021/03/ARtutorialV2.6-1280x720.jpg 1280w" sizes="(max-width: 799px) 100vw, 799px" /></figure></div>
+
+
+
+<p class="has-drop-cap"><br></p>
+
+
+
+<p></p>
+
+
+
+<p class="has-drop-cap">رسميا صدور تحدث  V2.6-Big Sur لشرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي</p>
+
+
+
+<h2 class="wp-block-heading">اهم التغييرات</h2>
+
+
+
+<h3 class="wp-block-heading">دعم اوبن كور 0.6.7</h3>
+
+
+
+<p>تم دعم اخر اصدار من اوبن كور وذلك بعدما ما تم تحديث مشروع <a href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-5-mar-%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/" data-type="post" data-id="4637" target="_blank" rel="noreferrer noopener">OC-Configs</a> للتوافق مع 0.6.7</p>
+
+
+
+<p>التغييرات الظاهرة<a rel="noreferrer noopener" href="https://forum.هاكنتوش.com/threads/%D8%A7%D9%88%D8%A8%D9%86-%D9%83%D9%88%D8%B1-0-6-7-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D9%85%D8%A7%D8%B1%D8%B3-2021-%D9%85%D9%86-acidanthera.145/#post-611" data-type="URL" data-id="https://forum.هاكنتوش.com/threads/%D8%A7%D9%88%D8%A8%D9%86-%D9%83%D9%88%D8%B1-0-6-7-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D9%85%D8%A7%D8%B1%D8%B3-2021-%D9%85%D9%86-acidanthera.145/#post-611" target="_blank"> لهذا الإصدار قليله جدا</a>, لذلك لن تلاحظ تغييرات كبيره في الشرح.</p>
+
+
+
+<h3 class="wp-block-heading">رفع نسخه 11.2.3 من macOS Big Sur</h3>
+
+
+
+<p>تم رفع نسخه جديده من ماك بيج سر, لتوفير اصدار 11.2.3, <br>أيضا تم استخدام موقع جديد للرفع وهو <a rel="noreferrer noopener" href="http://gofile.io/" data-type="URL" data-id="gofile.io" target="_blank">GoFile</a>, إذا واجهتم أية مشكله اعلمونا لنحلها بأسرع وقت</p>
+
+
+
+<h3 class="wp-block-heading">توضيح بعض الملاحظات الهامه في  صفحه AMD</h3>
+
+
+
+<p>تم ايضاح بعض الملاحظات الهامة, حتى تكون واضح للقارئ بشكل افضل</p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://tutorial.هاكنتوش.com/" data-type="URL" data-id="https://tutorial.هاكنتوش.com/" target="_blank" rel="noreferrer noopener">رابط الشرح</a></h2>
+
+
+
+<h2 class="wp-block-heading"><a href="https://github.com/ARhackintosh/ARtutorial/releases/tag/v2.6" data-type="URL" data-id="https://github.com/ARhackintosh/ARtutorial/releases/tag/v2.6" target="_blank" rel="noreferrer noopener">رابط الاصدار على Github</a><br></h2>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="/en/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-6-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.6-Big Sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="/en">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>رام Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/tag/%D8%B1%D8%A7%D9%85/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastBuildDate>Wed, 22 Apr 2020 19:39:47 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>رام Archives | هاكنتوش بالعربي</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>SystemProfilerMemoryFixup.kext</title>
+		<link>/systemprofilermemoryfixup-kext/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2020 19:39:40 +0000</pubDate>
+				<category><![CDATA[داخل النظام]]></category>
+		<category><![CDATA[كيكست(kext)]]></category>
+		<category><![CDATA[smbios]]></category>
+		<category><![CDATA[تاب]]></category>
+		<category><![CDATA[حول هذا الماك]]></category>
+		<category><![CDATA[رام]]></category>
+		<category><![CDATA[ماك بوك اير]]></category>
+		<category><![CDATA[ميموري]]></category>
+		<guid isPermaLink="false">/?p=475</guid>
+
+					<description><![CDATA[<p>اضافه لكيكست Lilu لتقوم باظهار صفحه ال Memory في صفحه حول هذا الماك لsmbios ماك بوك اير</p>
+<p>The post <a rel="nofollow" href="/systemprofilermemoryfixup-kext/">SystemProfilerMemoryFixup.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-large-font-size">اضافه لكيكست <a href="https://هاكنتوش.com/lilu-kext/">Lilu</a> لتقوم باظهار صفحه ال Memory في صفحه حول هذا الماك لsmbios ماك بوك اير</p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-midnight-gradient-background" href="https://onedrive.live.com/?authkey=%21APjCyRpzoAKp4xs&amp;id=FE4038DA929BFB23%21459659&amp;cid=FE4038DA929BFB23" target="_blank" rel="noreferrer noopener">تحميل</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-luminous-vivid-orange-to-vivid-red-gradient-background" href="https://github.com/Goldfish64/SystemProfilerMemoryFixup" target="_blank" rel="noreferrer noopener">المصدر</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-light-green-cyan-to-vivid-green-cyan-gradient-background" href=" https://هاكنتوش.com/kextarchive/">العوده الى الارشيف</a></div>
+</div>
+<p>The post <a rel="nofollow" href="/systemprofilermemoryfixup-kext/">SystemProfilerMemoryFixup.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>macProMemoryNotificationDisabler.kext</title>
+		<link>/macpromemorynotificationdisabler-kext/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Wed, 22 Apr 2020 17:35:23 +0000</pubDate>
+				<category><![CDATA[داخل النظام]]></category>
+		<category><![CDATA[كيكست(kext)]]></category>
+		<category><![CDATA[kext]]></category>
+		<category><![CDATA[macProMemoryNotificationDisabler.kext]]></category>
+		<category><![CDATA[smbios]]></category>
+		<category><![CDATA[تعريفات]]></category>
+		<category><![CDATA[تنبيه]]></category>
+		<category><![CDATA[رام]]></category>
+		<category><![CDATA[كيكست]]></category>
+		<category><![CDATA[ماك برو]]></category>
+		<category><![CDATA[هاكنتوش]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=435</guid>
+
+					<description><![CDATA[<p>يقوم بحل مشكله اشعار زياده الرام عن الحد المسموح به على اجهزه التي تستخدم SMBIOS من نوع MacPro 7,1.</p>
+<p>The post <a rel="nofollow" href="/macpromemorynotificationdisabler-kext/">macProMemoryNotificationDisabler.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-large-font-size">يقوم بحل مشكله اشعار زياده الرام عن الحد المسموح به على اجهزه التي تستخدم SMBIOS من نوع MacPro 7,1.</p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-flow wp-block-group-is-layout-flow">
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-midnight-gradient-background" href="https://github.com/IOIIIO/MacProMemoryNotificationDisabler/releases/" target="_blank" rel="noreferrer noopener">تحميل</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-light-green-cyan-to-vivid-green-cyan-gradient-background" href=" https://هاكنتوش.com/kextarchive/">العوده الى الارشيف</a></div>
+</div>
+</div></div>
+<p>The post <a rel="nofollow" href="/macpromemorynotificationdisabler-kext/">macProMemoryNotificationDisabler.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

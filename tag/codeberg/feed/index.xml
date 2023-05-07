@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>codeberg Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/tag/codeberg/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastBuildDate>Sun, 08 Aug 2021 14:51:39 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>codeberg Archives | هاكنتوش بالعربي</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>صدور تحديث V2.9-Big Sur لشرح تثبيت الهاكنتوش</title>
+		<link>/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-9-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Sun, 08 Aug 2021 14:42:37 +0000</pubDate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[codeberg]]></category>
+		<category><![CDATA[macOS big sur]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح هاكنتوش]]></category>
+		<category><![CDATA[هاكنتوش]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=4854</guid>
+
+					<description><![CDATA[<p>صدور تحديث V2.9-Big sur الجديد, والذي يحمل معه تغييرات كبيره لطريقه حرق ونسخ بيج سر.<br />
+واصلاحات عامه للشرح مثل حل مشاكل السرعه و استخدام هويه هاكنتوش بالعربي الجديدة</p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-9-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.9-Big Sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>السلام عليكم ورحمة الله وبركاتة</p>
+
+
+
+<p>نعلن اليوم عن صدور تحديث V2.9-Big sur وذلك بعد تاخر اكثر من العادة بسبب عدم تحديث فريق دورتانيا لشرحهم ل 0.7.1</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1360" height="890" src="/wp-content/uploads/2021/08/v2.9-screen.png" alt="" class="wp-image-4858" srcset="/wp-content/uploads/2021/08/v2.9-screen.png 1360w, /wp-content/uploads/2021/08/v2.9-screen-800x524.png 800w, /wp-content/uploads/2021/08/v2.9-screen-768x503.png 768w" sizes="(max-width: 1360px) 100vw, 1360px" /></figure>
+
+
+
+<p>نظرا للوقت الكبير التحديث يحمل معه تعديلات كثيره</p>
+
+
+
+<h2 class="wp-block-heading">تغيير طريقه تنزيل ونسخ ماك بيج سر</h2>
+
+
+
+<p>بعد مراجعه الجهد الذي تاخذه رفع نسخه بيج سر ايضا مشكله موقع التخزين, وتوقع استمرار الوضع للاصدارات القادمة</p>
+
+
+
+<p>تم تغيير طريقه النسخ لتعتمد على الركيفري او الاستعاده, وهي قريبه لطريقه تثبيت مع الانترنت في الاصدار السابق من الشرح.<br>وتوقف استخدام نسخه مجهزه مسبقا</p>
+
+
+
+<p>للاسف هذه الطريقه لها عده سلبيات, أكبرها احتياج مدخل lan وحاجه انترنت ثابت اثناء التثبيت. ولكن فعلا لا يوجد خيار اخر لمستخدمين ويندوز/لينكس</p>
+
+
+
+<p>غير تقليل حمل التطوير على المشروع, هناك فوائد مثل انه لا تحتاج الوثوق باي طرف ثالث في النسخه,<br>النسخه ستكون من سيرفرات ابل مباشره بدون اي تعديل و كل شيء محلي على جهازك</p>
+
+
+
+<p>وهذا ايضا يحل مشاكل قانونيه لمشروع هاكنتوش بالعربي.</p>
+
+
+
+<h2 class="wp-block-heading">تعديلات في صفحات الكونفق</h2>
+
+
+
+<p>تم تعطيل secure boot بشكل افتراضي, اتباعا لشرح دورتانيا</p>
+
+
+
+<p>وهو قد يكون سبب بعض المشاكل المعقده اثناء التثبيت</p>
+
+
+
+<p>ايضا تم اضافه خيارات لحل مشاكل التاريخ في اصدارات اقدم من big sur تعتمد على apfs.</p>
+
+
+
+<h2 class="wp-block-heading">تحديث صفحه الكيكستات</h2>
+
+
+
+<p>تم عمل بعض التعديلات على صفحه الكيكستات/التعريفات</p>
+
+
+
+<ul><li>حذف airportatheros40 </li><li>استبدال itwlm ب airportitwlm وهو افضل لانه يتعامل مع النظام مباشره بدون الحاجه لبرنامج منفصل</li><li>تحديث وصف brcmpatchram</li><li>تحديث قائمه الكروت المدعومة</li></ul>
+
+
+
+<h2 class="wp-block-heading">استخدام هويه هاكنتوش بالعربي جديدة</h2>
+
+
+
+<p>التحديث هذا يقوم باستخدام <a rel="noreferrer noopener" href="/%d8%b1%d8%ad%d8%a8%d9%88-%d9%85%d8%b9%d9%86%d8%a7-%d8%a8%d9%87%d9%88%d9%8a%d8%a9-%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/" data-type="post" data-id="4739" target="_blank">هوي</a><a href="/%d8%b1%d8%ad%d8%a8%d9%88-%d9%85%d8%b9%d9%86%d8%a7-%d8%a8%d9%87%d9%88%d9%8a%d8%a9-%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/" data-type="post" data-id="4739" target="_blank" rel="noreferrer noopener">ة</a><a rel="noreferrer noopener" href="/%d8%b1%d8%ad%d8%a8%d9%88-%d9%85%d8%b9%d9%86%d8%a7-%d8%a8%d9%87%d9%88%d9%8a%d8%a9-%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/" data-type="post" data-id="4739" target="_blank"> هاكنتوش بالعربي الجديده</a>, لكن كما ذكرنا لن يتم تحديث واجهه الشرح حتى يتم اصدار V3 الداعم لمونتري(نحن نبحث عن متطوعين للتطوير اذا كنت مهتم تواصل معنا عبر مواقع التواصل او قنوات الشات)</p>
+
+
+
+<h2 class="wp-block-heading">تصحيح روابط المجتمع</h2>
+
+
+
+<p>عندما تم <a href="/%d8%b1%d8%ad%d8%a8%d9%88-%d9%85%d8%b9%d9%86%d8%a7-%d8%a8%d9%87%d9%88%d9%8a%d8%a9-%d9%85%d8%ac%d8%aa%d9%85%d8%b9-%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-%d8%a8%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a/" data-type="post" data-id="4739" target="_blank" rel="noreferrer noopener">تغيير نظام المجتمع</a>, للاسف احتجنا ايضا لتغيير الروابط</p>
+
+
+
+<p>وهذا جعل الروابط القديمه لا تعمل, لذلك قمنا بتحديث جميع روابط المجتمع في الشرح الى الروابط الجديدة</p>
+
+
+
+<h2 class="wp-block-heading">استبدال دسكورد ب ماتركس</h2>
+
+
+
+<p>بعد اعلان عن <a href="/%d8%a7%d9%81%d8%aa%d8%aa%d8%a7%d8%ad-%d8%ba%d8%b1%d9%81%d8%a9-%d8%b9%d9%84%d9%89-%d8%b4%d8%a8%d9%83%d8%a9-matrix-%d9%88%d8%aa%d8%ad%d8%af%d9%8a%d8%ab%d8%a7%d8%aa-%d8%ad%d9%88%d9%84-%d8%b3%d9%8a/" data-type="post" data-id="4764" target="_blank" rel="noreferrer noopener">غرفة ماتركس و ايقاف سيرفر دسكورد</a>, تم استبدال روابط دسكورد بماتركس في الشرح</p>
+
+
+
+<h2 class="wp-block-heading">اول اصدار من Codeberg!</h2>
+
+
+
+<p>هذا اول اصدار من شرح هاكنتوش بالعربي مطور على Codeberg, منصه ممتازه فعلا ونشكر المسؤولين عنها.</p>
+
+
+
+<h2 class="wp-block-heading">دعم اوبن كور 0.7.2</h2>
+
+
+
+<p>تم اضافه تعديلات اوبن كور 0.7.2 لصفحات الكونفق</p>
+
+
+
+<p class="has-large-font-size"><a rel="noreferrer noopener" href="https://codeberg.org/ARhackintosh/ARtutorial/releases/tag/V2.9" data-type="URL" data-id="https://codeberg.org/ARhackintosh/ARtutorial/releases/tag/V2.9" target="_blank"><strong>رابط الاصدار على codeberg</strong></a></p>
+
+
+
+<p class="has-large-font-size"><a href="https://tutorial.هاكنتوش.com/"><strong>شرح تثبيت الهاكنتوش</strong></a></p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-9-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.9-Big Sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

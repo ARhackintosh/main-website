@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Acidanthera Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/tag/acidanthera/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastBuildDate>Tue, 11 Oct 2022 17:29:43 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>Acidanthera Archives | هاكنتوش بالعربي</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>FeatureUnlock.kext</title>
+		<link>/featureunlock-kext/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Wed, 04 Aug 2021 14:18:33 +0000</pubDate>
+				<category><![CDATA[داخل النظام]]></category>
+		<category><![CDATA[كيكست(kext)]]></category>
+		<category><![CDATA[Acidanthera]]></category>
+		<category><![CDATA[kext]]></category>
+		<category><![CDATA[ارشيف الكيكست]]></category>
+		<category><![CDATA[تعريفات]]></category>
+		<category><![CDATA[شرح هاكنتوش]]></category>
+		<category><![CDATA[كيكست]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=4838</guid>
+
+					<description><![CDATA[<p>ضافه لكيكست Lilu لتفعيل ميزات Sidecar, Nightshift, Airplay to mac و Universal Control للهاكنتوش</p>
+<p>The post <a rel="nofollow" href="/featureunlock-kext/">FeatureUnlock.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-large-font-size">اضافه لكيكست Lilu لتفعيل ميزات <a href="https://support.apple.com/en-ca/HT210380" data-type="URL" data-id="https://support.apple.com/en-ca/HT210380">Sidecar</a>, <a rel="noreferrer noopener" href="https://support.apple.com/guide/mac-help/use-night-shift-mchl97bc676d/mac" data-type="URL" data-id="https://support.apple.com/guide/mac-help/use-night-shift-mchl97bc676d/mac" target="_blank">Nightshift</a>, <a rel="noreferrer noopener" href="https://www.apple.com/macos/monterey-preview/" data-type="URL" data-id="https://www.apple.com/macos/monterey-preview/" target="_blank">Airplay to mac</a> و<a rel="noreferrer noopener" href="https://www.apple.com/macos/monterey-preview/" data-type="URL" data-id="https://www.apple.com/macos/monterey-preview/" target="_blank"> Universal Control</a> على smbios محدده</p>
+
+
+
+<hr class="wp-block-separator has-css-opacity"/>
+
+
+
+<p><a href="https://github.com/acidanthera/FeatureUnlock#featureunlock" target="_blank" rel="noreferrer noopener">قائمة ال SMbios المدعومة من هنا</a></p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-midnight-gradient-background has-background wp-element-button" href="https://github.com/acidanthera/FeatureUnlock/releases/tag/1.0.3" target="_blank" rel="noreferrer noopener">تحميل</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-light-green-cyan-to-vivid-green-cyan-gradient-background has-background wp-element-button" href=" https://هاكنتوش.com/kextarchive/">العوده الى الارشيف</a></div>
+</div>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="/featureunlock-kext/">FeatureUnlock.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>RestrictEvents.kext</title>
+		<link>/restrictevents-kext/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Wed, 04 Aug 2021 13:30:39 +0000</pubDate>
+				<category><![CDATA[داخل النظام]]></category>
+		<category><![CDATA[كيكست(kext)]]></category>
+		<category><![CDATA[Acidanthera]]></category>
+		<category><![CDATA[hackintosh]]></category>
+		<category><![CDATA[kext]]></category>
+		<category><![CDATA[ارشيف الكيكست]]></category>
+		<category><![CDATA[تعريفات]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=4835</guid>
+
+					<description><![CDATA[<p>اضافه لكيكست Lilu لمنع تشغيل خدمات في نظام الماك التي قد تسبب مشاكل على بعض القطع</p>
+<p>The post <a rel="nofollow" href="/restrictevents-kext/">RestrictEvents.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-large-font-size"><meta http-equiv="content-type" content="text/html; charset=utf-8">اضافه لكيكست <a href="/lilu-kext/" data-type="post" data-id="311" target="_blank" rel="noreferrer noopener">Lilu</a> لمنع تشغيل خدمات في نظام الماك التي قد تسبب مشاكل على بعض القطع, و تفعيل ميزات مخفيه لقطع داخل الاجهزه.</p>
+
+
+
+<hr class="wp-block-separator"/>
+
+
+
+<p>الخدمات التي يتم تعطيلها حاليا:</p>
+
+
+
+<ul><li><code>/System/Library/CoreServices/ExpansionSlotNotification</code></li><li><code>/System/Library/CoreServices/MemorySlotNotification</code></li></ul>
+
+
+
+<p>باتشات النظام:</p>
+
+
+
+<ul><li>اخفاء واجهه تغيير الرام ل <code>MacBookAir</code> Smbios</li><li>تعطيل اظهار كروت الشاشه و الميموري ل <code>MacPro7,1</code> SMbios</li><li>تصحيح اسماء المعالجات غير انتل.</li></ul>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-midnight-gradient-background has-background" href="https://github.com/acidanthera/RestrictEvents/releases/tag/1.0.3" target="_blank" rel="noreferrer noopener">تحميل</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-light-green-cyan-to-vivid-green-cyan-gradient-background has-background" href=" https://هاكنتوش.com/kextarchive/">العوده الى الارشيف</a></div>
+</div>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="/restrictevents-kext/">RestrictEvents.kext</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>كيفيه عمل كونفقات الاوبن كور Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/tag/%D9%83%D9%8A%D9%81%D9%8A%D9%87-%D8%B9%D9%85%D9%84-%D9%83%D9%88%D9%86%D9%81%D9%82%D8%A7%D8%AA-%D8%A7%D9%84%D8%A7%D9%88%D8%A8%D9%86-%D9%83%D9%88%D8%B1/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastBuildDate>Thu, 11 Feb 2021 20:56:36 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>كيفيه عمل كونفقات الاوبن كور Archives | هاكنتوش بالعربي</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>صدور تحديث V1.4-Feb لمشروع OC-Configs</title>
+		<link>/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-4-feb-%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Thu, 11 Feb 2021 20:56:33 +0000</pubDate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[OC-configs]]></category>
+		<category><![CDATA[opencore]]></category>
+		<category><![CDATA[اوبن كور]]></category>
+		<category><![CDATA[كونفق هاكنتوش]]></category>
+		<category><![CDATA[كونفقات اوبن كور]]></category>
+		<category><![CDATA[كيفيه عمل كونفقات الاوبن كور]]></category>
+		<category><![CDATA[هاكنتوش]]></category>
+		<category><![CDATA[هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=4617</guid>
+
+					<description><![CDATA[<p>رسميا صدور تحديث V1.4-Feb مع دعم لاوبن كور 0.6.6 لاتوجد تغييرات كبيره, نظرا لان التحديث لم يقدم الكثير من التغييرات. حدث تاخير بسبب بعض المشاكل, لكن تم تجاوزها وتحديث الشرح قريب ان شاء الله. الاصدار على Github</p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-4-feb-%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/">صدور تحديث V1.4-Feb لمشروع OC-Configs</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1920" height="1080" src="/wp-content/uploads/2021/02/oc1.4.jpg" alt="" class="wp-image-4618" srcset="/wp-content/uploads/2021/02/oc1.4.jpg 1920w, /wp-content/uploads/2021/02/oc1.4-800x450.jpg 800w, /wp-content/uploads/2021/02/oc1.4-768x432.jpg 768w, /wp-content/uploads/2021/02/oc1.4-1536x864.jpg 1536w, /wp-content/uploads/2021/02/oc1.4-1280x720.jpg 1280w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p class="has-drop-cap">رسميا صدور تحديث V1.4-Feb مع دعم <a href="https://forum.هاكنتوش.com/threads/%D8%A7%D9%88%D8%A8%D9%86-%D9%83%D9%88%D8%B1-0-6-6-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%B4%D9%87%D8%B1-%D9%81%D8%A8%D8%B1%D8%A7%D9%8A%D8%B1-2021-%D9%85%D9%86-acidanthera.136/">لاوبن كور</a> 0.6.6</p>
+
+
+
+<p>لاتوجد تغييرات كبيره, نظرا لان التحديث لم يقدم الكثير من التغييرات.</p>
+
+
+
+<p>حدث تاخير بسبب بعض المشاكل, لكن تم تجاوزها وتحديث الشرح قريب ان شاء الله.<br><br><a href="https://github.com/ARhackintosh/OC-Configs/releases/tag/V1.4">الاصدار على Github</a></p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-4-feb-%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/">صدور تحديث V1.4-Feb لمشروع OC-Configs</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>صدور تحديث V2.3-Big Sur لشرح تثبيت الهاكنتوش</title>
+		<link>/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-3-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Sat, 09 Jan 2021 19:32:08 +0000</pubDate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[اوبن كور 0.6.5]]></category>
+		<category><![CDATA[شرح الاوبن كور]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح تثبيت هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[شرح هاكنتوش]]></category>
+		<category><![CDATA[شرح هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[كيفيه عمل الاوبن كور]]></category>
+		<category><![CDATA[كيفيه عمل كونفقات الاوبن كور]]></category>
+		<guid isPermaLink="false">/?p=4570</guid>
+
+					<description><![CDATA[<p>نقدم لكم اليوم اكبر تحديث لشرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي, الان مع دعم اوبن كور 0.6.5 و اضافه كامل تغييرات dortania الجديدة.</p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-3-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.3-Big Sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">رسميا نعلن عن صدور تحديث V2.3-Big Sur لشرح تثبيت الهاكنتوش الاكببر عربيا. الان مع دعم <a href="https://forum.xn--mgbg4a8cpdl.com/threads/%D8%A7%D9%88%D8%A8%D9%86-%D9%83%D9%88%D8%B1-0-6-5-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%B4%D9%87%D8%B1-%D9%8A%D9%86%D8%A7%D9%8A%D8%B1-2021-%D9%85%D9%86-acidanthera.128/">اوبن كور 0.6.5</a><br>هذا اكبر تحديث للشرح مع ميزات وتحديثات هامه حتى يكون الشرح محدث مع اخر تعديلات شرح Dortania</p>
+
+
+
+<h1 class="wp-block-heading">اهم التغييرات</h1>
+
+
+
+<h2 class="wp-block-heading">الشعار</h2>
+
+
+
+<p class="has-medium-font-size">تم تصميم شعار جديد يمثل هويه شرح تثبيت الهاكنتوش من هاكنتوش بالعربي</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1920" height="1310" src="/wp-content/uploads/2021/01/link-preview-artutorial.jpeg" alt="" class="wp-image-4574" srcset="/wp-content/uploads/2021/01/link-preview-artutorial.jpeg 1920w, /wp-content/uploads/2021/01/link-preview-artutorial-800x546.jpeg 800w, /wp-content/uploads/2021/01/link-preview-artutorial-768x524.jpeg 768w, /wp-content/uploads/2021/01/link-preview-artutorial-1536x1048.jpeg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p class="has-medium-font-size">الشعار الجديد سيتمن استخدامه للشرح, والصوره السابقه ستكون هي صوره العرض عن وضع رابط الشرح على مواقع التواصل.</p>
+
+
+
+<h2 class="wp-block-heading">تحديثات لصفحه ال ACPI</h2>
+
+
+
+<h3 class="wp-block-heading"><a href="https://tutorial.هاكنتوش.com/EFI-setup/ACPI/#ssdt-imeiaml">اضافه SSDT-IMEI</a></h3>
+
+
+
+<p class="has-medium-font-size">هو ssdt جديد مخصص لحل مشكله مذروبردات الجيل السادس مع معالجات الجيل الثالث للابتوبات</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://tutorial.xn--mgbg4a8cpdl.com/EFI-setup/ACPI/#pc">وضع SSDT-USBX في عمود منفصل في الجدول</a></h3>
+
+
+
+<p class="has-medium-font-size">تم وضع SSDT-USBX في عمود منفصل جدول ال ACPI</p>
+
+
+
+<p class="has-medium-font-size">وذلك لتوضيح انه ملف منفصل عن SSDT-EC</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/01/image.png" alt="" class="wp-image-4577" width="841" height="377" srcset="/wp-content/uploads/2021/01/image.png 1161w, /wp-content/uploads/2021/01/image-800x359.png 800w, /wp-content/uploads/2021/01/image-768x345.png 768w" sizes="(max-width: 841px) 100vw, 841px" /></figure></div>
+
+
+
+<h3 class="wp-block-heading"><a href="https://tutorial.xn--mgbg4a8cpdl.com/EFI-setup/ACPI/#ssdt-xosiaml">تغيير اسم SSDT-GPI0 الى SSDT-XOSI</a></h3>
+
+
+
+<p class="has-medium-font-size">لان اسم الملف الذي سيتم تحميله SSDT-XOSI</p>
+
+
+
+<p class="has-medium-font-size">و SSDT-GPI0 هي النسخة التي يتم بنائها يدويا</p>
+
+
+
+<p class="has-medium-font-size">بالاضافه لحذف جدول الباتش من صفحه ال ACPI لانه تم اضافته في الكونفقات الخاصه بهاكنتوش بالعربي.</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://tutorial.xn--mgbg4a8cpdl.com/EFI-setup/ACPI/#ssdt-rhubaml">استخدام SSDTTime لانشاء SSDT-RHUB</a></h3>
+
+
+
+<p class="has-medium-font-size">تم تحويل الكونفق من مصنوع مسبقا الى انشائه من ssdt-time لانه افضل خيار يدمج بين السهوله و التخصيص لكل جهاز</p>
+
+
+
+<h2 class="wp-block-heading">الكونفقات</h2>
+
+
+
+<ul><li>اضافه دعم P530 للجيل السادس</li><li>حذف اعداد AppleXcpmCfgLock من الجيل السادس</li><li>اضافه ID بديل لكروت الجيل الثامن والتاسع</li><li>تصحيح جدول اعدادت الجيل الثالث(حذف سطر العناوين المكرر)</li><li>اضافه دعم كرت شبكه انتل i225-V 2.5GBe</li><li>التحويل لاستخدام الاصدار بدل التحميل المباشر لمشروع <a href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-3-jan-%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/">OC-Configs</a></li><li>تصحيح رابط AppleALC</li><li>اضافه حاجه مذربوردات x470 و b450 ل SetupVirtualMap</li></ul>
+
+
+
+<h2 class="wp-block-heading">تغييرات متنوعه:</h2>
+
+
+
+<ul><li>حذف كيكست itwlmx بعد الغائه ودمجه مع itwlm</li><li>حذف ملاحظه استخدام SSDT-PNLF مع Whatevergreen لانه سيتم انشاء الملف من ssdt-time</li><li>اضافه اسماء النظام كامله في قسم نسخ النظام</li></ul>
+
+
+
+<p class="has-medium-font-size">بالاضافه انه تم رفع نسخ جديده من نفس الاصدار, وتم ضغطها بصيغه ZIP<br>وذلك تجنبا لتعطيب الملف اثناء  وايضا حل مشاكل النسخ السابقه</p>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-3-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.3-Big Sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="/">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>DisableTurboBoost.kext Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/en/tag/disableturboboost-kext/feed/" rel="self" type="application/rss+xml" />
+	<link href=""></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastbuilddate>Wed, 22 Apr 2020 20:03:32 +0000</lastbuilddate>
+	<language>en-US</language>
+	<sy:updateperiod>
+	hourly	</sy:updateperiod>
+	<sy:updatefrequency>
+	1	</sy:updatefrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>DisableTurboBoost.kext Archives | هاكنتوش بالعربي</title>
+	<link href=""></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DisableTurboBoost.kext</title>
+		<link href="">/en/disableturboboost-kext/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubdate>Wed, 22 Apr 2020 20:03:26 +0000</pubdate>
+				<category><![CDATA[المعالج]]></category>
+		<category><![CDATA[كيكست(kext)]]></category>
+		<category><![CDATA[DisableTurboBoost.kext]]></category>
+		<category><![CDATA[hackintosh]]></category>
+		<category><![CDATA[kext]]></category>
+		<category><![CDATA[ارشيف الكيكست]]></category>
+		<category><![CDATA[تثبيت هاكنتوش]]></category>
+		<category><![CDATA[كيكست]]></category>
+		<category><![CDATA[هاكنتوش]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid ispermalink="false">/?p=486</guid>
+
+					<description><![CDATA[<p>كيكست لتعطيل التيربو في المعالج في نظام الماك يعطيك اداء اسوء لاكن حراره اقل<br />
+الكيكست لم يتم توثيقه في الماك يرجى التاكد من تعطيل SIP في نظام الماك موجوده الطريقه في ال README</p>
+<p>The post <a rel="nofollow" href="/en/disableturboboost-kext/">DisableTurboBoost.kext</a> appeared first on <a rel="nofollow" href="/en">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-large-font-size">كيكست لتعطيل التيربو في المعالج في نظام الماك يعطيك اداء اسوء لاكن حراره اقل<br>الكيكست لم يتم توثيقه في الماك يرجى التاكد من تعطيل SIP في نظام الماك موجوده الطريقه في ال <a href="https://github.com/veloek/DisableTurboBoost.kext/">README</a></p>
+
+
+
+<div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-midnight-gradient-background" href="https://github.com/veloek/DisableTurboBoost.kext/releases" target="_blank" rel="noreferrer noopener">تحميل</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link has-background has-light-green-cyan-to-vivid-green-cyan-gradient-background" href=" https://هاكنتوش.com/kextarchive/">العوده الى الارشيف</a></div>
+</div>
+<p>The post <a rel="nofollow" href="/en/disableturboboost-kext/">DisableTurboBoost.kext</a> appeared first on <a rel="nofollow" href="/en">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
