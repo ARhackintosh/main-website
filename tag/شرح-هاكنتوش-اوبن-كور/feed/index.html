@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>شرح هاكنتوش اوبن كور Archives | هاكنتوش بالعربي</title>
+	<atom:link href="/tag/%d8%b4%d8%b1%d8%ad-%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-%d8%a7%d9%88%d8%a8%d9%86-%d9%83%d9%88%d8%b1/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>هاكنتوش بالعربي هو اول و اكبر مجتمع عربي متخصص بالهاكنتوش نقاشات,شروحات,اخبار وغيرها الكثير. حياكم الله!</description>
+	<lastBuildDate>Mon, 11 Jan 2021 15:02:26 +0000</lastBuildDate>
+	<language>ar</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>/wp-content/uploads/2021/07/cropped-icon-32x32.png</url>
+	<title>شرح هاكنتوش اوبن كور Archives | هاكنتوش بالعربي</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>صدور تحديث V2.4-Big sur لشرح تثبيت الهاكنتوش</title>
+		<link>/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-4-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 14:57:14 +0000</pubDate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[V2.4-Big sur]]></category>
+		<category><![CDATA[تحديث شرح هاكنتوش]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح تثبيت هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[شرح هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[نسخه بيج سر خام]]></category>
+		<guid isPermaLink="false">/?p=4581</guid>
+
+					<description><![CDATA[<p>تحديث طارئ لتغير برنامج حرق ونسخه بيج سر, للتخلص من جميع المشاكل, وتسهيل طريقه الحرق على المستخدم</p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-4-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.4-Big sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">اصدرنا تحديث طارئ بهدف تغيير طريقه الحرق و رفع نسخه جديده, للتخلص من المشاكل التي لا تنتهي </p>
+
+
+
+<h2 class="wp-block-heading">طريقه Big sur الجديده</h2>
+
+
+
+<p class="has-medium-font-size">سيتم استخدام برنامج  <a href="https://www.balena.io/etcher/">Balena Etcher </a>وهو افضل بكل شيء.<br></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="802" height="519" src="/wp-content/uploads/2021/01/Balena.png" alt="" class="wp-image-4583" srcset="/wp-content/uploads/2021/01/Balena.png 802w, /wp-content/uploads/2021/01/Balena-800x518.png 800w, /wp-content/uploads/2021/01/Balena-768x497.png 768w" sizes="(max-width: 802px) 100vw, 802px" /></figure>
+
+
+
+<p class="has-medium-font-size">المشكله سابقا انه عند وضع صوره للنظام فقط بدون partition table لن يكون هناك قسم EFI. ونحتاج برنامج مثل BDU لعمل هذا القسم.<br><br>تم حل المشكله بطريقه جديده للحرق, بحيث يتم حرق النسخه الى ملف DMG مباشره مع partiton table.</p>
+
+
+
+<p class="has-medium-font-size">ولاظهار قسم ال EFI على الويندوز استخدمنا سكربت Makeinstall من  gibmacos, تم اختبار النسخه والطريقه وكانت افضل بكثير.</p>
+
+
+
+<p class="has-medium-font-size">بالاضافه انه الطريقه تدعم لينكس.</p>
+
+
+
+<p class="has-medium-font-size">ايضا تم اضافه checksum بتشفير SHA256</p>
+
+
+
+<h2 class="wp-block-heading">تعديلات صفحه كاتلينا.</h2>
+
+
+
+<p class="has-medium-font-size">تعديلات بسيطه للتوضيح المكتوب.</p>
+
+
+
+<ul><li>تم حذف سكربت Gensmbios لانه غير مطلوب في خطوه الحرق</li><li>تم وضع ملحوظه في حاله عدم وجود بايثون 3</li><li>تم اعاده صيغ بعد الجمل لتكون اوضح</li></ul>
+
+
+
+<p class="has-large-font-size"><a href="https://github.com/ARhackintosh/ARtutorial/releases/tag/V2.4">رابط اصدار Github</a></p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-4-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.4-Big sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>صدور تحديث V2.3-Big Sur لشرح تثبيت الهاكنتوش</title>
+		<link>/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-3-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Sat, 09 Jan 2021 19:32:08 +0000</pubDate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[اوبن كور 0.6.5]]></category>
+		<category><![CDATA[شرح الاوبن كور]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح تثبيت هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[شرح هاكنتوش]]></category>
+		<category><![CDATA[شرح هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[كيفيه عمل الاوبن كور]]></category>
+		<category><![CDATA[كيفيه عمل كونفقات الاوبن كور]]></category>
+		<guid isPermaLink="false">/?p=4570</guid>
+
+					<description><![CDATA[<p>نقدم لكم اليوم اكبر تحديث لشرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي, الان مع دعم اوبن كور 0.6.5 و اضافه كامل تغييرات dortania الجديدة.</p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-3-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.3-Big Sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p class="has-medium-font-size">رسميا نعلن عن صدور تحديث V2.3-Big Sur لشرح تثبيت الهاكنتوش الاكببر عربيا. الان مع دعم <a href="https://forum.xn--mgbg4a8cpdl.com/threads/%D8%A7%D9%88%D8%A8%D9%86-%D9%83%D9%88%D8%B1-0-6-5-%D9%88%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%B4%D9%87%D8%B1-%D9%8A%D9%86%D8%A7%D9%8A%D8%B1-2021-%D9%85%D9%86-acidanthera.128/">اوبن كور 0.6.5</a><br>هذا اكبر تحديث للشرح مع ميزات وتحديثات هامه حتى يكون الشرح محدث مع اخر تعديلات شرح Dortania</p>
+
+
+
+<h1 class="wp-block-heading">اهم التغييرات</h1>
+
+
+
+<h2 class="wp-block-heading">الشعار</h2>
+
+
+
+<p class="has-medium-font-size">تم تصميم شعار جديد يمثل هويه شرح تثبيت الهاكنتوش من هاكنتوش بالعربي</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1920" height="1310" src="/wp-content/uploads/2021/01/link-preview-artutorial.jpeg" alt="" class="wp-image-4574" srcset="/wp-content/uploads/2021/01/link-preview-artutorial.jpeg 1920w, /wp-content/uploads/2021/01/link-preview-artutorial-800x546.jpeg 800w, /wp-content/uploads/2021/01/link-preview-artutorial-768x524.jpeg 768w, /wp-content/uploads/2021/01/link-preview-artutorial-1536x1048.jpeg 1536w" sizes="(max-width: 1920px) 100vw, 1920px" /></figure>
+
+
+
+<p class="has-medium-font-size">الشعار الجديد سيتمن استخدامه للشرح, والصوره السابقه ستكون هي صوره العرض عن وضع رابط الشرح على مواقع التواصل.</p>
+
+
+
+<h2 class="wp-block-heading">تحديثات لصفحه ال ACPI</h2>
+
+
+
+<h3 class="wp-block-heading"><a href="https://tutorial.هاكنتوش.com/EFI-setup/ACPI/#ssdt-imeiaml">اضافه SSDT-IMEI</a></h3>
+
+
+
+<p class="has-medium-font-size">هو ssdt جديد مخصص لحل مشكله مذروبردات الجيل السادس مع معالجات الجيل الثالث للابتوبات</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://tutorial.xn--mgbg4a8cpdl.com/EFI-setup/ACPI/#pc">وضع SSDT-USBX في عمود منفصل في الجدول</a></h3>
+
+
+
+<p class="has-medium-font-size">تم وضع SSDT-USBX في عمود منفصل جدول ال ACPI</p>
+
+
+
+<p class="has-medium-font-size">وذلك لتوضيح انه ملف منفصل عن SSDT-EC</p>
+
+
+
+<div class="wp-block-image"><figure class="aligncenter size-large is-resized"><img decoding="async" src="/wp-content/uploads/2021/01/image.png" alt="" class="wp-image-4577" width="841" height="377" srcset="/wp-content/uploads/2021/01/image.png 1161w, /wp-content/uploads/2021/01/image-800x359.png 800w, /wp-content/uploads/2021/01/image-768x345.png 768w" sizes="(max-width: 841px) 100vw, 841px" /></figure></div>
+
+
+
+<h3 class="wp-block-heading"><a href="https://tutorial.xn--mgbg4a8cpdl.com/EFI-setup/ACPI/#ssdt-xosiaml">تغيير اسم SSDT-GPI0 الى SSDT-XOSI</a></h3>
+
+
+
+<p class="has-medium-font-size">لان اسم الملف الذي سيتم تحميله SSDT-XOSI</p>
+
+
+
+<p class="has-medium-font-size">و SSDT-GPI0 هي النسخة التي يتم بنائها يدويا</p>
+
+
+
+<p class="has-medium-font-size">بالاضافه لحذف جدول الباتش من صفحه ال ACPI لانه تم اضافته في الكونفقات الخاصه بهاكنتوش بالعربي.</p>
+
+
+
+<h3 class="wp-block-heading"><a href="https://tutorial.xn--mgbg4a8cpdl.com/EFI-setup/ACPI/#ssdt-rhubaml">استخدام SSDTTime لانشاء SSDT-RHUB</a></h3>
+
+
+
+<p class="has-medium-font-size">تم تحويل الكونفق من مصنوع مسبقا الى انشائه من ssdt-time لانه افضل خيار يدمج بين السهوله و التخصيص لكل جهاز</p>
+
+
+
+<h2 class="wp-block-heading">الكونفقات</h2>
+
+
+
+<ul><li>اضافه دعم P530 للجيل السادس</li><li>حذف اعداد AppleXcpmCfgLock من الجيل السادس</li><li>اضافه ID بديل لكروت الجيل الثامن والتاسع</li><li>تصحيح جدول اعدادت الجيل الثالث(حذف سطر العناوين المكرر)</li><li>اضافه دعم كرت شبكه انتل i225-V 2.5GBe</li><li>التحويل لاستخدام الاصدار بدل التحميل المباشر لمشروع <a href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-3-jan-%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/">OC-Configs</a></li><li>تصحيح رابط AppleALC</li><li>اضافه حاجه مذربوردات x470 و b450 ل SetupVirtualMap</li></ul>
+
+
+
+<h2 class="wp-block-heading">تغييرات متنوعه:</h2>
+
+
+
+<ul><li>حذف كيكست itwlmx بعد الغائه ودمجه مع itwlm</li><li>حذف ملاحظه استخدام SSDT-PNLF مع Whatevergreen لانه سيتم انشاء الملف من ssdt-time</li><li>اضافه اسماء النظام كامله في قسم نسخ النظام</li></ul>
+
+
+
+<p class="has-medium-font-size">بالاضافه انه تم رفع نسخ جديده من نفس الاصدار, وتم ضغطها بصيغه ZIP<br>وذلك تجنبا لتعطيب الملف اثناء  وايضا حل مشاكل النسخ السابقه</p>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-3-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4/">صدور تحديث V2.3-Big Sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>رسميا صدور تحديث V2.2-Big sur لشرح تثبيت الهاكنتوش</title>
+		<link>/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-2-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 21:00:01 +0000</pubDate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[arhackintosh]]></category>
+		<category><![CDATA[hackintosh tutorial]]></category>
+		<category><![CDATA[OC0.6.4]]></category>
+		<category><![CDATA[open core tutorial]]></category>
+		<category><![CDATA[opencore 0.6.4]]></category>
+		<category><![CDATA[اوبن كور 0.6.4]]></category>
+		<category><![CDATA[تحديث شرح هاكنتوش]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=4462</guid>
+
+					<description><![CDATA[<p>رسميا صدور تحديث V2.2-Big sur لاكبر شرح لتثبيت الهاكنتوش, الان مع ميزات جديده من دعم واجهه اوبن كور, ودعم الاقلاع المباشر.</p>
+<p>The post <a rel="nofollow" href="/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-2-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa/">رسميا صدور تحديث V2.2-Big sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large is-style-default"><img decoding="async" width="1905" height="1080" src="/wp-content/uploads/2020/12/ARtutorialV2-2.jpg" alt="" class="wp-image-4465" srcset="/wp-content/uploads/2020/12/ARtutorialV2-2.jpg 1905w, /wp-content/uploads/2020/12/ARtutorialV2-2-600x340.jpg 600w, /wp-content/uploads/2020/12/ARtutorialV2-2-800x454.jpg 800w, /wp-content/uploads/2020/12/ARtutorialV2-2-768x435.jpg 768w, /wp-content/uploads/2020/12/ARtutorialV2-2-1536x871.jpg 1536w" sizes="(max-width: 1905px) 100vw, 1905px" /><figcaption>واجهه الشرح لاصدار V2.2</figcaption></figure>
+
+
+
+<p class="has-drop-cap has-medium-font-size">رسميا صدور تحديث V2.2-Big sur لشرح تثبيت الهاكنتوش الأكبر عربيا.</p>
+
+
+
+<p class="has-medium-font-size">في هذا التحديث كانت هناك عده تغييرات في واجهه الشرح, بالإضافة لميزات جديدة.</p>
+
+
+
+<h2 class="wp-block-heading">اهم التغييرات:</h2>
+
+
+
+<h3 class="wp-block-heading">توافق مع اوبن كور <a href="https://forum.هاكنتوش.com/threads/%D8%B5%D8%AF%D9%88%D8%B1-%D8%A7%D9%88%D8%A8%D9%86-%D9%83%D9%88%D8%B1-0-6-4-%D9%88-%D8%AA%D8%AD%D8%AF%D9%8A%D8%AB%D8%A7%D8%AA-%D8%B4%D9%87%D8%B1-%D8%AF%D9%8A%D8%B3%D9%85%D8%A8%D8%B1-%D9%85%D9%86-%D9%81%D8%B1%D9%8A%D9%82-acidanthera.120/" target="_blank" rel="noreferrer noopener">0.6.4</a></h3>
+
+
+
+<p>تم اضافه توافق اوبن كور 0.6.4, باستخدام كونفقات <a href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-2-dec-%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/" data-type="post" data-id="4457" target="_blank" rel="noreferrer noopener">OC-configs</a> الجديدة و تحديث صفحه AMD للإضافة الخيارات الجديدة.</p>
+
+
+
+<h3 class="wp-block-heading">زيادة عرض الشرح</h3>
+
+
+
+<p class="has-medium-font-size">تم زيادة عرض الشرح, لحل مشكله عدم عرض الجداول بشكل كامل, واعطاء مساحه اكبر للمحتوى.</p>
+
+
+
+<figure class="wp-block-gallery columns-2 is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img decoding="async" width="1906" height="1001" src="/wp-content/uploads/2020/12/beforewide.jpg" alt="" data-id="4463" data-link="/?attachment_id=4463" class="wp-image-4463" srcset="/wp-content/uploads/2020/12/beforewide.jpg 1906w, /wp-content/uploads/2020/12/beforewide-600x315.jpg 600w, /wp-content/uploads/2020/12/beforewide-800x420.jpg 800w, /wp-content/uploads/2020/12/beforewide-768x403.jpg 768w, /wp-content/uploads/2020/12/beforewide-1536x807.jpg 1536w" sizes="(max-width: 1906px) 100vw, 1906px" /><figcaption class="blocks-gallery-item__caption">قبل التحديث </figcaption></figure></li><li class="blocks-gallery-item"><figure><img decoding="async" width="1909" height="1004" src="/wp-content/uploads/2020/12/afterwide.jpg" alt="" data-id="4464" data-full-url="/wp-content/uploads/2020/12/afterwide.jpg" data-link="/?attachment_id=4464" class="wp-image-4464" srcset="/wp-content/uploads/2020/12/afterwide.jpg 1909w, /wp-content/uploads/2020/12/afterwide-600x316.jpg 600w, /wp-content/uploads/2020/12/afterwide-800x421.jpg 800w, /wp-content/uploads/2020/12/afterwide-768x404.jpg 768w, /wp-content/uploads/2020/12/afterwide-1536x808.jpg 1536w" sizes="(max-width: 1909px) 100vw, 1909px" /><figcaption class="blocks-gallery-item__caption">بعد التحديث</figcaption></figure></li></ul><figcaption class="blocks-gallery-caption">الفرق قبل وبعد</figcaption></figure>
+
+
+
+<p class="has-medium-font-size">تم وضع حد 2400 بكسل وهو كافي, لعرض المحتوى و بزيادة.</p>
+
+
+
+<h3 class="wp-block-heading">اضافه دعم الواجهة الرسومية للاوبن كور</h3>
+
+
+
+<figure class="wp-block-image is-style-default"><img decoding="async" src="https://dortania.github.io/OpenCore-Post-Install/assets/img/gui.a10019ae.png" alt="Credit to vit9696"/><figcaption>واجهه الاوبن كور</figcaption></figure>
+
+
+
+<p class="has-medium-font-size">تمت اضافه دعم واجهه الاوبن كور في الشرح</p>
+
+
+
+<p class="has-medium-font-size">بحيث الان سيتم استثناء ملف OpenCanopy.efi من الحذف في OC/Drivers وهذا سيمكن الواجهة الرسومية في ألآوبن كور, التي ستعطي جمال اكثر لتجربة المستخدم</p>
+
+
+
+<h3 class="wp-block-heading">اخفاء قائمة الاوبن كور للاقلاع المباشر</h3>
+
+
+
+<p>تم اضافه طريق اخفاء قائمة اقلاع اوبن كور بشكل كامل</p>
+
+
+
+<p>لتتم عمليه الإقلاع بشكل مباشر بدون الحاجة لأختيار ألماك, او ظهور قائمة بشكل مؤقت.<br>بحيث تسرع عمليه الإقلاع.</p>
+
+
+
+<h2 class="wp-block-heading">قائمة التغييرات كاملة</h2>
+
+
+
+<ul><li>اضافه دعم اوبن كور <a rel="noreferrer noopener" href="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.4" data-type="URL" data-id="https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.4" target="_blank">0.6.4</a></li><li>زيادة عرض الشرح</li><li>تحديث صفحه انشاء كونفقات AMD للتوافق مع 0.6.4</li><li>اضافه دعم واجهة اوبن كور الرسومية</li><li>اضافه طريقة اخفاء قائمة اقلاع اوبن كور بشكل كامل</li><li>حذف ملاحظه احتمال عدم دعم كرت انتل المدمج على الجيل الثالث</li><li>حذف ملاحظة ان نظام ماك بيج سر مازال تجريبي</li><li>اضافه احتياج SSDT-AWAC للابتوبات الجيل الثامن</li><li>تصحيح جدول باتشات HD6xx في الجيل السابع <a href="https://tutorial.xn--mgbg4a8cpdl.com/config-setup/laptops/7th-gen/#deviceproperties">الرابط</a></li></ul>
+<p>The post <a rel="nofollow" href="/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-2-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa/">رسميا صدور تحديث V2.2-Big sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>رسميا صدور تحديث V2.1-Big sur لشرح تثبيت الهاكنتوش</title>
+		<link>/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-1-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Sun, 22 Nov 2020 20:54:32 +0000</pubDate>
+				<category><![CDATA[تحديث جديد]]></category>
+		<category><![CDATA[اوبن كور 0.6.3]]></category>
+		<category><![CDATA[تثبيت هاكنتوش بيج سر]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح تثبيت هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[شرح هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<category><![CDATA[هاكنتوش بيج سر]]></category>
+		<guid isPermaLink="false">/?p=4448</guid>
+
+					<description><![CDATA[<p>نعلن اليوم عن صدور تحديث V2.1-Big sur<br />
+بحيث يحتوي على الكثير من التغييرات لتحسين تجربتكم في عالم الهاكنتوش</p>
+<p>The post <a rel="nofollow" href="/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-1-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa/">رسميا صدور تحديث V2.1-Big sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1903" height="1080" src="/wp-content/uploads/2020/11/Screenshot-from-2020-11-22-23-26-48.jpg" alt="" class="wp-image-4450" srcset="/wp-content/uploads/2020/11/Screenshot-from-2020-11-22-23-26-48.jpg 1903w, /wp-content/uploads/2020/11/Screenshot-from-2020-11-22-23-26-48-600x341.jpg 600w, /wp-content/uploads/2020/11/Screenshot-from-2020-11-22-23-26-48-800x454.jpg 800w, /wp-content/uploads/2020/11/Screenshot-from-2020-11-22-23-26-48-768x436.jpg 768w, /wp-content/uploads/2020/11/Screenshot-from-2020-11-22-23-26-48-1536x872.jpg 1536w" sizes="(max-width: 1903px) 100vw, 1903px" /></figure>
+
+
+
+<p class="has-drop-cap has-medium-font-size">نعلن اليوم عن صدور او تحديث للشرح بعد <a href="/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a7%d8%b5%d8%af%d8%a7%d8%b1-%d8%b4%d8%b1%d8%ad-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-v2-0-big-sur/" data-type="post" data-id="4359">الاصدار الرسمي.</a><br>يحمل هذا التحديثات تغييرات مهمه لتحسين تجربتك في عالم الهاكنتوش.</p>
+
+
+
+<h2 class="wp-block-heading">قائمة التغييرات:</h2>
+
+
+
+<ul><li>تحديث الشرح للتوافق مع<a href="https://github.com/ARhackintosh/ARtutorial/releases/tag/V2.1"> آوبن كور </a>0.6.3 مع استخدام الاصدار الجديد من <a href="/%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v1-1-nov-%d9%85%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-oc-configs/" data-type="post" data-id="4441">OC-Configs</a></li><li>إضافة أصدارات الكيكست المدعومة لكل نظام</li><li>إضافة ملاحظ كرت atheros E2500</li><li>تحديث نسخه big sur المرفوعة</li><li>تنبيه استخدام ملفات .kext فقط في صفحه الكيكستات.</li><li>إضافة ملاحظه احتياج تحديث الكونفق مع كل ملف جديد في صفحه ال EFI</li><li>إضافة تنبيه عدم وضع ملف dsdt.aml وعدم تكرار ملفات ال ssdt بعده صيغ.</li><li>تحديث مكان وجود ملف EFI ألآوبن كور الى x64 داخل الأرشيف</li><li>توضيح اختيار ملف OC داخل ال EFI لإضافة الكيكستات في propertree</li><li>إضافة احتمال عدم الحاجة لssdt-awac</li><li>إضافة طريقه اختيار نظام افتراضي للاقلاع في ألآوبن كور.</li><li>إضافة صور في صفحه بعد التثبيت للتوضيح</li><li>و إضافة ملاحظات لكيفيه حرق النسخ من نظام الماك.</li></ul>
+
+
+
+<p class="has-large-font-size"><a href="https://github.com/ARhackintosh/ARtutorial/releases/tag/V2.1">رابط الاصدار على GITHUB</a></p>
+
+
+
+<p class="has-large-font-size"><a href="https://tutorial.هاكنتوش.com">رابط الشرح</a><br></p>
+<p>The post <a rel="nofollow" href="/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%b5%d8%af%d9%88%d8%b1-%d8%aa%d8%ad%d8%af%d9%8a%d8%ab-v2-1-big-sur-%d9%84%d8%b4%d8%b1%d8%ad-%d8%aa%d8%ab%d8%a8%d9%8a%d8%aa-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa/">رسميا صدور تحديث V2.1-Big sur لشرح تثبيت الهاكنتوش</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>رسميا اصدار شرح الهاكنتوش V2.0-Big sur</title>
+		<link>/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a7%d8%b5%d8%af%d8%a7%d8%b1-%d8%b4%d8%b1%d8%ad-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-v2-0-big-sur/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Fri, 30 Oct 2020 20:50:51 +0000</pubDate>
+				<category><![CDATA[اعلان]]></category>
+		<category><![CDATA[github]]></category>
+		<category><![CDATA[v2.0-big sur]]></category>
+		<category><![CDATA[اصدار جديد]]></category>
+		<category><![CDATA[تثبيت هاكنتوش بيج سر]]></category>
+		<category><![CDATA[تحديث شرح هاكنتوش]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح هاكنتوش]]></category>
+		<category><![CDATA[شرح هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[علي الصبحي]]></category>
+		<category><![CDATA[قروب الهاكنتوش]]></category>
+		<category><![CDATA[ماك بيج سر]]></category>
+		<category><![CDATA[مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<guid isPermaLink="false">/?p=4359</guid>
+
+					<description><![CDATA[<p>نعلن اليوم عن صدور الاصدار الثاني من شرح تثبيت الهاكنتوش من هاكنتوش بالعربي وهو اكبر شرح عربي للهاكنتوش مع دعم اوبن كور و ماك بيج سر</p>
+<p>The post <a rel="nofollow" href="/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a7%d8%b5%d8%af%d8%a7%d8%b1-%d8%b4%d8%b1%d8%ad-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-v2-0-big-sur/">رسميا اصدار شرح الهاكنتوش V2.0-Big sur</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1903" height="1079" src="/wp-content/uploads/2020/10/Screenshot-from-2020-10-30-23-30-17.jpg" alt="" class="wp-image-4361" srcset="/wp-content/uploads/2020/10/Screenshot-from-2020-10-30-23-30-17.jpg 1903w, /wp-content/uploads/2020/10/Screenshot-from-2020-10-30-23-30-17-600x340.jpg 600w, /wp-content/uploads/2020/10/Screenshot-from-2020-10-30-23-30-17-800x454.jpg 800w, /wp-content/uploads/2020/10/Screenshot-from-2020-10-30-23-30-17-768x435.jpg 768w, /wp-content/uploads/2020/10/Screenshot-from-2020-10-30-23-30-17-1536x871.jpg 1536w" sizes="(max-width: 1903px) 100vw, 1903px" /></figure>
+
+
+
+<p class="has-drop-cap has-medium-font-size">نعلن اليوم بشكل رسمي عن اصدار الاصدار الثاني من شرح تثبيت الهاكنتوش وهو اكبر شرح عربي للهاكنتوش مع اكثر من 20,000 كلمة و اكثر من 50,000 حرف مع اكثر من 800 تعديل على <a rel="noreferrer noopener" href="https://github.com/ARhackintosh/ARtutorial" target="_blank">Github</a></p>
+
+
+
+<p class="has-medium-font-size"><a href="https://forum.هاكنتوش.com/threads/rsmia-sdur-shrxh-tthbit-alxakntush-algdid.88/">رابط مناقشة الاعلان</a></p>
+
+
+
+<h2 class="wp-block-heading">التعديلات بعد <a href="/artutorialv2g/" data-type="post" data-id="4341">النسخة الذهبية</a>:</h2>
+
+
+
+<p class="has-medium-font-size">تم تحويل طريقه حرق بيج سر الى برنامج BDU لحل مشكله حجم الUSB بحيث عندما ناخذ صوره من كامل ال USB يكون حجم الصوره على الاقل 16 جيجا بينما الملفات 13 جيجا.</p>
+
+
+
+<p class="has-medium-font-size">لذلك الصور ستكون فقط لقسم النظام وهو حجمه 13 جيجا فقط و BDU سيقوم بتقسم ال USB بشكل عادي.</p>
+
+
+
+<h2 class="wp-block-heading">ميزات الشرح الجديد:</h2>
+
+
+
+<ul><li> دعم ماك Big Sur 11</li><li>تحويل الى اوبن كور بالكامل</li><li>صفحه بدايه جديدة بالكامل</li><li>صفحه  كيكستات مفصله بشكل اكبر وتعريفات اكثر</li><li>اضافه صفحه مخصصه لشرح وملفات ال  ACPI</li><li>شرح لكيفيه انشاء كونفقات اوبن كور من الجيل الثالث الى العاشر  للابتوبات والمكتبي</li><li>استخدام مشروع <a href="/%d8%a7%d8%b9%d9%84%d8%a7%d9%86-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%aa%d8%ac%d9%87%d9%8a%d8%b2-%d8%b9%d9%8a%d9%86%d8%a7%d8%aa-%d9%83%d9%88%d9%86%d9%81%d9%82-%d8%a7%d9%88%d8%a8%d9%86-%d9%83/" data-type="post" data-id="4307">OC-Configs</a> </li><li>دعم الجيل العاشر (ice lake و Comet lake)</li><li>استخدام كونفقات معالجات AMD الجديدة</li><li>واجهه جديدة بالكامل مع دعم تخطيط اليمين الى اليسار</li><li>سرعة افضل</li><li>لون يتوافق الموقع و خط تابع للموقع</li></ul>
+
+
+
+<h2 class="wp-block-heading">بنية الشرح</h2>
+
+
+
+<p class="has-medium-font-size">الشرح مبني على شرح <a href="https://dortania.github.io/OpenCore-Install-Guide">Dortania</a> ومرخص تحت نفس الترخيص, نستخدم برنامج <a href="https://github.com/mkdocs/mkdocs">Mkdocs</a> وثيم <a href="https://github.com/squidfunk/mkdocs-material">MKdocs-Material</a>, استضافه الشرح على Github pages مع رابط مخصص.</p>
+
+
+
+<p class="has-medium-font-size">فائده هذه التعديلات هي تحكم اكبر بشكل كبير على الشرح, بحيث اصبح يمكنا نقدم لكم تجربة افضل ومقاربه للموقع الاساسي مع سرعه افضل بشكل اكبر وخصوصية عاليه.</p>
+
+
+
+<h2 class="wp-block-heading">حالة الشرح القديم</h2>
+
+
+
+<p class="has-medium-font-size">تم اصدار تحديث <a href="https://github.com/ARhackintosh/ARtutorial/releases/tag/V1.4.1.1">v1.4.1.1</a>  للشرح القديم فيه تنبيهات ان هناك إصدار جديد, وان الشرح القديم سيتم أيقاف دعمه</p>
+
+
+
+<h2 class="wp-block-heading">روابط الشرح</h2>
+
+
+
+<h2 class="wp-block-heading"><a href="https://github.com/arhackintosh/artutorial">رابط المشروع على Github</a> للمساهمه في التطوير</h2>
+
+
+
+<p></p>
+
+
+
+<h2 class="wp-block-heading"><a href="https://tutorial.هاكنتوش.com" data-type="URL" data-id="https://tutorial.هاكنتوش.com">رابط الشرح الجديد</a></h2>
+
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a7%d8%b5%d8%af%d8%a7%d8%b1-%d8%b4%d8%b1%d8%ad-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-v2-0-big-sur/">رسميا اصدار شرح الهاكنتوش V2.0-Big sur</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>وصول شرح الهاكنتوش V2 إلى المرحلة الذهبية</title>
+		<link>/artutorialv2g/</link>
+		
+		<dc:creator><![CDATA[FarisZR]]></dc:creator>
+		<pubDate>Fri, 23 Oct 2020 19:33:55 +0000</pubDate>
+				<category><![CDATA[اعلان]]></category>
+		<category><![CDATA[mkdocs]]></category>
+		<category><![CDATA[open core]]></category>
+		<category><![CDATA[اعلان اصدار V1.4.1-Catalina من شرح تثبيت الهاكنتوش]]></category>
+		<category><![CDATA[الاصدار الثاني من شرح تثبيت الهاكنتوش]]></category>
+		<category><![CDATA[اوبن كور]]></category>
+		<category><![CDATA[تثبيت ماك بيج سر]]></category>
+		<category><![CDATA[تنزيل اوبن كور]]></category>
+		<category><![CDATA[شرح تثبيت الهاكنتوش من مجتمع هاكنتوش بالعربي]]></category>
+		<category><![CDATA[شرح هاكنتوش]]></category>
+		<category><![CDATA[شرح هاكنتوش اوبن كور]]></category>
+		<category><![CDATA[كونفق اوبن كور]]></category>
+		<category><![CDATA[هاكنتوش بالعربي]]></category>
+		<category><![CDATA[هاكنتوش.com]]></category>
+		<guid isPermaLink="false">/?p=4341</guid>
+
+					<description><![CDATA[<p>نعلن اليوم بشكل رسمي انتهاء تطوير الاصدار الثاني من شرح تثبيت الهاكنتوش وهو اول واكبر شرح عربي للهاكنتوش بدعم اوبن كور و ماك بيج سر</p>
+<p>The post <a rel="nofollow" href="/artutorialv2g/">وصول شرح الهاكنتوش V2 إلى المرحلة الذهبية</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img decoding="async" width="1904" height="1080" src="/wp-content/uploads/2020/10/Screenshot-from-2020-10-23-20-42-56.jpg" alt="" class="wp-image-4349" srcset="/wp-content/uploads/2020/10/Screenshot-from-2020-10-23-20-42-56.jpg 1904w, /wp-content/uploads/2020/10/Screenshot-from-2020-10-23-20-42-56-600x340.jpg 600w, /wp-content/uploads/2020/10/Screenshot-from-2020-10-23-20-42-56-800x454.jpg 800w, /wp-content/uploads/2020/10/Screenshot-from-2020-10-23-20-42-56-768x436.jpg 768w, /wp-content/uploads/2020/10/Screenshot-from-2020-10-23-20-42-56-1536x871.jpg 1536w" sizes="(max-width: 1904px) 100vw, 1904px" /></figure>
+
+
+
+<p class="has-drop-cap has-text-align-right" style="font-size:22px">بعد اكثر من 5 اشهر في التطوير من بحث وكتابة اكثر من 16,000 كلمة و 90,000 حرف, نعلن رسميا عن انتهاء تطوير <a href="https://tutorial.هاكنتوش.com">الاصدار الثاني من شرح الهاكنتوش</a>, وهو اول و اكبر شرح عربي للهاكنتوش مع دعم الاوبن كور و macOS 11 Big sur</p>
+
+
+
+<p class="has-medium-font-size"><a href="/%d8%b1%d8%b3%d9%85%d9%8a%d8%a7-%d8%a7%d8%b5%d8%af%d8%a7%d8%b1-%d8%b4%d8%b1%d8%ad-%d8%a7%d9%84%d9%87%d8%a7%d9%83%d9%86%d8%aa%d9%88%d8%b4-v2-0-big-sur/" data-type="post" data-id="4359"><strong>صدر الشرح رسميا هنا الاعلان</strong></a></p>
+
+
+
+<p style="font-size:22px">هذا انجاز كبير لي شخصيا ولمشروع هاكنتوش بالعربي بشكل عام.</p>
+
+
+
+<p style="font-size:22px">تم بناء الشرح على شرح <a href="https://dortania.github.io/OpenCore-Install-Guide">Dortania</a> المخصص للاوبن كور, وباستخدام برنامج <a href="https://github.com/mkdocs">MKdocs</a> و ثيم Mkdocs material, استضافه الشرح أصبحت على github pages<br>لنا تحكم كامل بتجربة المستخدم داخل الشرح عكس الإصدار السابق مع موقع GItbook وهذا يحل العديد من المشاكل منها اتجاه الواجهة والرابط المختلف عن الموقع.</p>
+
+
+
+<p style="font-size:22px">سيتم اصدار الشرح خلال الاسبوع القادم مع تضمين مشروع <a href="/%d8%a7%d8%b9%d9%84%d8%a7%d9%86-%d8%b9%d9%86-%d9%85%d8%b4%d8%b1%d9%88%d8%b9-%d8%aa%d8%ac%d9%87%d9%8a%d8%b2-%d8%b9%d9%8a%d9%86%d8%a7%d8%aa-%d9%83%d9%88%d9%86%d9%81%d9%82-%d8%a7%d9%88%d8%a8%d9%86-%d9%83/" data-type="post" data-id="4307">OC-Configs</a> داخل الشرح<br>بحيث تبقت بعض التعديلات لفصل نسخه التطوير عن النسخة الثابتة من الشرح و تحديث بعض التفاصيل على <a href="https://github.com/arhackintosh/artutorial">صفحه المشروع على github</a> واضافه تنبيهات انتهاء دعم الاصدار السابق.</p>
+
+
+
+<h2 class="wp-block-heading">ميزات الشرح:</h2>
+
+
+
+<ul><li> دعم ماك Big Sur 11</li><li>تحويل الى اوبن كور بالكامل</li><li>صفحه بدايه جديدة بالكامل</li><li>صفحه  كيكستات مفصله بشكل اكبر وتعريفات اكثر</li><li>اضافه صفحه مخصصه لشرح وملفات ال  ACPI</li><li>شرح لكيفيه انشاء كونفقات اوبن كور من الجيل الثالث الى العاشر  للابتوبات والمكتبي</li><li>دعم الجيل العاشر (ice lake و Comet lake)</li><li>دعم معالجات  AMD لاخر التحديثات</li><li>واجهه جديدة بالكامل مع دعم تخطيط اليمين الى اليسار</li></ul>
+
+
+
+<p class="has-medium-font-size"><a href="https://forum.هاكنتوش.com/threads/rsmia-antxa-ttuir-shrxh-tthbit-alxakntush.86/">رابط الموضوع على المجتمع للمناقشة</a></p>
+
+
+
+<p class="has-large-font-size">رابط الشرح:</p>
+
+
+
+<p class="has-text-align-right has-large-font-size" dir="ltr"><a href="https://tutorial.هاكنتوش.com">https://tutorial</a><a rel="noreferrer noopener" href="https://tutorial.هاكنتوش.com" target="_blank">.</a><a href="https://tutorial.هاكنتوش.com">هاكنتوش.com</a></p>
+
+
+
+<p class="has-huge-font-size"><a href="https://github.com/ARhackintosh/ARtutorial/releases/tag/V2.0G" target="_blank" rel="noreferrer noopener">رابط الاصدار على Github</a></p>
+<p>The post <a rel="nofollow" href="/artutorialv2g/">وصول شرح الهاكنتوش V2 إلى المرحلة الذهبية</a> appeared first on <a rel="nofollow" href="">هاكنتوش بالعربي</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
